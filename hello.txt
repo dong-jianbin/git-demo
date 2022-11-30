@@ -12,3 +12,4 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! update master
+hello atguigu! hello git! update hot-fix
